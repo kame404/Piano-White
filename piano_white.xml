@@ -716,12 +716,12 @@
     <image_editor>
       <ThemeImageEditor
         vertex="#000000"
-        vertex_select="#363636"
+        vertex_select="#fa9900"
         vertex_size="3"
         vertex_bevel="#000000"
         vertex_unreferenced="#000000"
         face="#2e2e2e0a"
-        face_select="#3636363c"
+        face_select="#fa99003c"
         face_dot="#363636"
         facedot_size="3"
         freestyle_face_mark="#7fff7f33"
@@ -729,7 +729,7 @@
         face_front="#00000000"
         editmesh_active="#2e2e2e80"
         wire_edit="#c0c0c0"
-        edge_select="#363636"
+        edge_select="#fa9900"
         scope_back="#868686ff"
         preview_stitch_face="#7f7f0033"
         preview_stitch_edge="#ff00ff33"
