@@ -424,8 +424,8 @@
         <space>
           <ThemeSpaceGradient
             title="#303030"
-            text="#ffffff"
-            text_hi="#ffffff"
+            text="#303030"
+            text_hi="#000000"
             header="#e5e5e500"
             header_text="#303030"
             header_text_hi="#303030"
